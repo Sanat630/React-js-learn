@@ -1,0 +1,19 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background: #F55A5A;
+  color: white;
+  text-transform: lowercase;
+}
+header img{
+  width: 28px;
+  height: auto;
+}
+.h1{
+  font-size: 14px;
+  font-weight: 400;
+}
